@@ -7,4 +7,4 @@ else:
     if num2 > num1:
         print('num 2 is bigger than num 1')
     else:
-        print('')
+        print('These numbers are equal')
